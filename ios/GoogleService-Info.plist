@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>925902910155-35tof9mbophs9g0hcp2ajkhq89ng98ag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.925902910155-35tof9mbophs9g0hcp2ajkhq89ng98ag</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2Bcf6leGKbc9F-ylT-BG5hc-OzeuU8eY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925902910155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Template-002</string>
+	<key>PROJECT_ID</key>
+	<string>template002-90ebb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>template002-90ebb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925902910155:ios:18a6104bdb21af45ce214e</string>
+	<key>DATABASE_URL</key>
+	<string>https://template002-90ebb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
