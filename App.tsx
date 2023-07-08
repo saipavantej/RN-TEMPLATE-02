@@ -2,7 +2,7 @@ import {Text, TouchableOpacity, View} from 'react-native';
 import database from '@react-native-firebase/database';
 import firestore from '@react-native-firebase/firestore';
 import React from 'react';
-
+import {StyledComponent} from 'nativewind';
 type Props = {};
 
 const App = (props: Props) => {
@@ -117,6 +117,11 @@ const App = (props: Props) => {
         <Text>Read Documents</Text>
       </TouchableOpacity>
       <View style={{padding: 20}} />
+      <StyledComponent
+        component={Text}
+        className="text-orange-600  text-[30px] uppercase">
+        Hello world
+      </StyledComponent>
     </View>
   );
 };
